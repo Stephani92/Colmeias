@@ -1,0 +1,10 @@
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia c Mel.csprojAssemblyReference.cache
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia_c_Mel.Form1.resources
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia_c_Mel.Properties.Resources.resources
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia c Mel.csproj.GenerateResource.cache
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia c Mel.csproj.CoreCompileInputs.cache
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\bin\Debug\Colmeia c Mel.exe.config
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\bin\Debug\Colmeia c Mel.exe
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\bin\Debug\Colmeia c Mel.pdb
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia c Mel.exe
+C:\Users\Stephani\source\repos\Colmeia c Mel\Colmeia c Mel\obj\Debug\Colmeia c Mel.pdb
